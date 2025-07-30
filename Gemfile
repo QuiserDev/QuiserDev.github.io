@@ -5,3 +5,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # 如果使用远程主题（如 Minimal Mistakes）
 gem "jekyll-remote-theme"
+
+gem "jekyll-include-cache"
